@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "_note": "Optional: add \"latest\": {\"android\": \"0.7.6\", \"windows\": \"0.7.6\"} to show 'New version' on older builds.",
   "weeks": {},
   "months": {}
 }
